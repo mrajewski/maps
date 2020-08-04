@@ -8,9 +8,9 @@ const carsByMake = [
     ['f150'],
     ['corolla'],
     ['camaro'],
-]
+];
 
-//Help with inference when extracting values
+// Help with inference when extracting values
 const car = carsMakers[0];
 const myCar = carsMakers.pop();
 
